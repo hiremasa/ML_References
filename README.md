@@ -1,6 +1,7 @@
 # ML_References
-ML/DLのリファレンス集
-フォーマットはここ(https://github.com/phalanx-hk/kaggle_cv_pipeline/blob/master/kaggle_tips.md#pretrained_model_library)を参考
+ML/DLのリファレンス集<br>
+自分が読んで使ったものを追加していく<br>
+フォーマットはここ(https://github.com/phalanx-hk/kaggle_cv_pipeline/blob/master/kaggle_tips.md#pretrained_model_library) を参考
 - [よく参照する論文等](#journal)
   - [pretrained model library](#pretrained_model_library)
   - [data augmentation library](#data_augmentation_library)
@@ -70,7 +71,7 @@ ML/DLのリファレンス集
 
 # reguralization
 ## label smoothing
-[When Does Label Smoothing Help?](https://arxiv.org/abs/1906.02629) (NeurIPS'19)
+[When Does Label thing Help?](https://arxiv.org/abs/1906.02629) (NeurIPS'19)
 
 ## dropout
 <!-- - [dropout](https://jmlr.org/papers/v15/srivastava14a.html) (JMLR'14)
@@ -144,7 +145,7 @@ FOR FINE-TUNING](https://arxiv.org/abs/2002.11770) (ICLR'20)
 <a name="unsupervised_learning"></a>
 
 # unsupervised learning
-- [SCAN](https://arxiv.org/abs/2005.12320) (ECCV'20)
+<!-- - [SCAN](https://arxiv.org/abs/2005.12320) (ECCV'20) -->
 
 <a name="multi_task_learning"></a>
 
