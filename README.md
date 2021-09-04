@@ -20,6 +20,10 @@ ML/DLのリファレンス集<br>
   - [survey](#survey)
   - [competition solution](#solution)
   - [tracking ML experiment](#ml_experiment)
+
+- [お役立ちサイト集](#ref_blogs)
+  - [Qiita](#qiita)
+  - [Blog](#blog)
 ---
 <a name="journal"></a>
 # ML/DLのリファレンス集
