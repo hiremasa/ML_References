@@ -47,29 +47,29 @@ ML/DLのリファレンス集<br>
 
 <a name="image_classification_models"></a>
 
-# classification models
+# classification models (読んだら更新していく)
 ## must
-- [Inceptionv3](https://arxiv.org/abs/1512.00567) (CVPR'16)
+<!-- - [Inceptionv3](https://arxiv.org/abs/1512.00567) (CVPR'16)
 - [ResNet](https://arxiv.org/abs/1512.03385) (CVPR'16)
 - [DenseNet](https://arxiv.org/abs/1608.06993) (CVPR'17)
 - [ResNeXt](https://arxiv.org/abs/1611.05431) (CVPR'17)
 - [SENet](https://arxiv.org/abs/1709.01507) (CVPR'18)
 - [coord conv](https://arxiv.org/abs/1807.03247) (NeurIPS'18)
-- [HRNet](https://arxiv.org/abs/1908.07919) (CVPR'19)
+- [HRNet](https://arxiv.org/abs/1908.07919) (CVPR'19)  -->
 - [EfficientNet](https://arxiv.org/abs/1905.11946) (ICML'19)
-- [ECA-Net](https://arxiv.org/abs/1910.03151) (CVPR'20)
+<!-- - [ECA-Net](https://arxiv.org/abs/1910.03151) (CVPR'20)
 - [ResNeSt](https://arxiv.org/abs/2004.08955) (arxiv)
-- [octave conv](https://arxiv.org/abs/1904.05049) (ICCV'19)
+- [octave conv](https://arxiv.org/abs/1904.05049) (ICCV'19) -->
 
 ## try
-- [HarDNet](https://arxiv.org/abs/1909.00948) (ICCV'19)
+<!-- - [HarDNet](https://arxiv.org/abs/1909.00948) (ICCV'19)
 - [RegNet](https://arxiv.org/abs/2003.13678) (CVPR'20)
 - [CSPNet](https://arxiv.org/abs/1911.11929) (CVPRW'20)
 - [Spatially Attentive Output Layer](https://arxiv.org/abs/2004.07570) (CVPR'20)
 - [Improved ResNet](https://arxiv.org/abs/2004.04989) (arxiv)
 - [SlimConv](https://arxiv.org/abs/2003.07469) (arxiv)
 - [Visual Transformers](https://arxiv.org/abs/2006.03677) (arxiv)
-- [URIE](https://arxiv.org/abs/2007.08979) (ECCV'20)
+- [URIE](https://arxiv.org/abs/2007.08979) (ECCV'20) -->
 
 <a name="reguralization"></a>
 
