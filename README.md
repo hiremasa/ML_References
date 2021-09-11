@@ -24,6 +24,7 @@ ML/DLのリファレンス集<br>
 - [お役立ちサイト集](#ref_blogs)
   - [Qiita](#qiita)
   - [Blog](#blog)
+  - [Kaggle](#kaggle)
 ---
 <a name="journal"></a>
 # ML/DLのリファレンス集
@@ -216,3 +217,21 @@ FOR FINE-TUNING](https://arxiv.org/abs/2002.11770) (ICLR'20)
 - [metric learning](https://www.mdpi.com/2073-8994/11/9/1066) -->
 
 
+---
+<a name="ref_blogs"></a>
+# お役立ちサイト集
+- [] 随時追加していく
+
+
+<a name="qiita"></a>
+
+# Qiita
+
+<a name="blog"></a>
+
+# Blog
+
+<a name="kaggle"></a>
+
+#Kaggle
+- [EfficientNet-PyTorch Speed up and Memory usage](https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/discussion/111292)
