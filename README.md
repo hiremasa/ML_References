@@ -1,11 +1,12 @@
 # ML_References
 ML/DLのリファレンス集<br>
 自分が読んで使ったものを追加していく<br>
-フォーマットはここ(https://github.com/phalanx-hk/kaggle_cv_pipeline/blob/master/kaggle_tips.md#pretrained_model_library) を参考
+フォーマットは[ここ](https://github.com/phalanx-hk/kaggle_cv_pipeline/blob/master/kaggle_tips.md#pretrained_model_library) を参考
 - [よく参照する論文等](#journal)
   - [pretrained model library](#pretrained_model_library)
   - [data augmentation library](#data_augmentation_library)
   - [classification models](#image_classification_models)
+  - [optimizer](#optimizer)
   - [reguralization](#reguralization)
   - [batch normalization](#batch_norm)
   - [hyperparameter tuning](#hyperparameter_tuning)
@@ -40,6 +41,7 @@ ML/DLのリファレンス集<br>
 <a name="data_augmentation_library"></a>
 
 # data augmentation library
+[albumentations](https://github.com/albumentations-team/albumentations)
 <!-- - [albumentations](https://github.com/albumentations-team/albumentations)
 - [dali](https://github.com/NVIDIA/DALI)
 - [kornia](https://github.com/kornia/kornia)
@@ -71,6 +73,11 @@ ML/DLのリファレンス集<br>
 - [SlimConv](https://arxiv.org/abs/2003.07469) (arxiv)
 - [Visual Transformers](https://arxiv.org/abs/2006.03677) (arxiv)
 - [URIE](https://arxiv.org/abs/2007.08979) (ECCV'20) -->
+
+<a name="optimizer"></a>
+
+# optimizer
+- [Sharpness-Aware Minimization for Efficiently Improving Generalization](https://arxiv.org/abs/2010.01412) (ICLR 2021)
 
 <a name="reguralization"></a>
 
