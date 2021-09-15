@@ -10,6 +10,7 @@ ML/DLのリファレンス集<br>
   - [reguralization](#reguralization)
   - [batch normalization](#batch_norm)
   - [hyperparameter tuning](#hyperparameter_tuning)
+  - [visualizatioo](#visualization)
   - [imbalanced data](#imbalanced_data)
   - [semi-supervised learning](#semi_supervised_learning)
   - [unsupervised learning](#unsupervised_learning)
@@ -143,6 +144,12 @@ FOR FINE-TUNING](https://arxiv.org/abs/2002.11770) (ICLR'20)
 - [Bilateral-Branch Network](https://arxiv.org/abs/1912.02413) (CVPR'20)
 - [Rebalanced mixup](https://arxiv.org/abs/2007.03943) (arxiv)
 - [M2m](https://arxiv.org/abs/2004.00431) (CVPR'20) -->
+
+  - [visualizatioo](#visualization)
+<a name="visualization"></a>
+
+# visualization
+- [Grad-Cam](https://arxiv.org/pdf/1610.02391.pdf)
 
 <a name="semi_supervised_learning"></a>
 
