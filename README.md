@@ -53,15 +53,16 @@ ML/DLのリファレンス集<br>
 
 # classification models (読んだら更新していく)
 ## must
-<!-- - [Inceptionv3](https://arxiv.org/abs/1512.00567) (CVPR'16)
 - [ResNet](https://arxiv.org/abs/1512.03385) (CVPR'16)
+- [EfficientNet](https://arxiv.org/abs/1905.11946) (ICML'19)
+<!-- - [Inceptionv3](https://arxiv.org/abs/1512.00567) (CVPR'16)
+
 - [DenseNet](https://arxiv.org/abs/1608.06993) (CVPR'17)
 - [ResNeXt](https://arxiv.org/abs/1611.05431) (CVPR'17)
 - [SENet](https://arxiv.org/abs/1709.01507) (CVPR'18)
 - [coord conv](https://arxiv.org/abs/1807.03247) (NeurIPS'18)
-- [HRNet](https://arxiv.org/abs/1908.07919) (CVPR'19)  -->
-- [EfficientNet](https://arxiv.org/abs/1905.11946) (ICML'19)
-<!-- - [ECA-Net](https://arxiv.org/abs/1910.03151) (CVPR'20)
+- [HRNet](https://arxiv.org/abs/1908.07919) (CVPR'19) 
+- [ECA-Net](https://arxiv.org/abs/1910.03151) (CVPR'20)
 - [ResNeSt](https://arxiv.org/abs/2004.08955) (arxiv)
 - [octave conv](https://arxiv.org/abs/1904.05049) (ICCV'19) -->
 
