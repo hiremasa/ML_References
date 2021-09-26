@@ -55,10 +55,9 @@ ML/DLのリファレンス集<br>
 ## must
 - [ResNet](https://arxiv.org/abs/1512.03385) (CVPR'16)
 - [EfficientNet](https://arxiv.org/abs/1905.11946) (ICML'19)
-<!-- - [Inceptionv3](https://arxiv.org/abs/1512.00567) (CVPR'16)
-
 - [DenseNet](https://arxiv.org/abs/1608.06993) (CVPR'17)
 - [ResNeXt](https://arxiv.org/abs/1611.05431) (CVPR'17)
+<!-- - [Inceptionv3](https://arxiv.org/abs/1512.00567) (CVPR'16)
 - [SENet](https://arxiv.org/abs/1709.01507) (CVPR'18)
 - [coord conv](https://arxiv.org/abs/1807.03247) (NeurIPS'18)
 - [HRNet](https://arxiv.org/abs/1908.07919) (CVPR'19) 
