@@ -43,6 +43,7 @@ ML/DLのリファレンス集<br>
 
 # data augmentation library
 [albumentations](https://github.com/albumentations-team/albumentations)
+  - [official docs](https://albumentations.ai/docs/examples/migrating_from_torchvision_to_albumentations/)
 <!-- - [albumentations](https://github.com/albumentations-team/albumentations)
 - [dali](https://github.com/NVIDIA/DALI)
 - [kornia](https://github.com/kornia/kornia)
