@@ -101,7 +101,8 @@ ML/DLのリファレンス集<br>
 
 ### augmentation method
 - [Bag of Tricks](https://arxiv.org/pdf/1812.01187.pdf)
-<!-- - [mixup](https://arxiv.org/abs/1710.09412) (ICLR'18)
+- [mixup](https://arxiv.org/abs/1710.09412) (ICLR'18)
+<!-- - 
 - [CutMix](https://arxiv.org/abs/1905.04899) (ICCV'19)
 - [Manifold Mixup](https://arxiv.org/abs/1806.05236) (ICML'19)
 - [Fast AutoAugment](https://arxiv.org/abs/1905.00397) (NeurIPS'19)
