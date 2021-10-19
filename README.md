@@ -59,13 +59,13 @@ ML/DLのリファレンス集<br>
 - [DenseNet](https://arxiv.org/abs/1608.06993) (CVPR'17)
 - [ResNeXt](https://arxiv.org/abs/1611.05431) (CVPR'17)
 - [ResNeSt](https://arxiv.org/abs/2004.08955) (arxiv)
-- [Visual Transformers](https://arxiv.org/abs/2006.03677) (arxiv)
+- [Vision Transfer](/https://arxiv.org/pdf/2010.11929.pdf) (arxiv)
 <!-- - [Inceptionv3](https://arxiv.org/abs/1512.00567) (CVPR'16)
 - [SENet](https://arxiv.org/abs/1709.01507) (CVPR'18)
 - [coord conv](https://arxiv.org/abs/1807.03247) (NeurIPS'18)
 - [HRNet](https://arxiv.org/abs/1908.07919) (CVPR'19) 
 - [ECA-Net](https://arxiv.org/abs/1910.03151) (CVPR'20)
-
+- [Visual Transformers](https://arxiv.org/abs/2006.03677) (arxiv)
 - [octave conv](https://arxiv.org/abs/1904.05049) (ICCV'19) -->
 
 ## try
