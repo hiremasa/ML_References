@@ -60,6 +60,7 @@ ML/DLのリファレンス集<br>
 - [ResNeXt](https://arxiv.org/abs/1611.05431) (CVPR'17)
 - [ResNeSt](https://arxiv.org/abs/2004.08955) (arxiv)
 - [Vision Transformer](/https://arxiv.org/pdf/2010.11929.pdf) (arxiv)
+- [Swin Transformer](https://arxiv.org/abs/2103.14030) (arxiv)
 <!-- - [Inceptionv3](https://arxiv.org/abs/1512.00567) (CVPR'16)
 - [SENet](https://arxiv.org/abs/1709.01507) (CVPR'18)
 - [coord conv](https://arxiv.org/abs/1807.03247) (NeurIPS'18)
