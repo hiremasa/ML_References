@@ -250,8 +250,12 @@ FOR FINE-TUNING](https://arxiv.org/abs/2002.11770) (ICLR'20)
 <a name="blog"></a>
 
 # Blog
-
+- [論文解説 Attention Is All You Need (Transformer)](https://deeplearning.hatenablog.com/entry/transformer)
+- [作って理解する Transformer / Attention](https://qiita.com/halhorn/items/c91497522be27bde17ce)
 <a name="kaggle"></a>
 
-#Kaggle
+# Kaggle
 - [EfficientNet-PyTorch Speed up and Memory usage](https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/discussion/111292)
+
+# GitHub
+- [SENet](https://github.com/ai-med/squeeze_and_excitation/blob/master/squeeze_and_excitation/squeeze_and_excitation.py)
