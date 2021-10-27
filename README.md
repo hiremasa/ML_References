@@ -259,3 +259,4 @@ FOR FINE-TUNING](https://arxiv.org/abs/2002.11770) (ICLR'20)
 
 # GitHub
 - [SENet](https://github.com/ai-med/squeeze_and_excitation/blob/master/squeeze_and_excitation/squeeze_and_excitation.py)
+- [PyTorch learning rate finder](https://github.com/davidtvs/pytorch-lr-finder)
