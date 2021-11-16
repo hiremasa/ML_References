@@ -53,10 +53,11 @@ ML/DLのリファレンス集<br>
 <a name="image_classification_models"></a>
 
 # classification models (読んだら更新していく)
-## must
+
 - [ResNet](https://arxiv.org/abs/1512.03385) (CVPR'16)
 - [EfficientNet](https://arxiv.org/abs/1905.11946) (ICML'19)
 - [DenseNet](https://arxiv.org/abs/1608.06993) (CVPR'17)
+- [MobileNet](https://arxiv.org/abs/1704.04861)(CVPR'17)
 - [ResNeXt](https://arxiv.org/abs/1611.05431) (CVPR'17)
 - [ResNeSt](https://arxiv.org/abs/2004.08955) (arxiv)
 - [Vision Transformer](/https://arxiv.org/pdf/2010.11929.pdf) (arxiv)
@@ -70,7 +71,7 @@ ML/DLのリファレンス集<br>
 - [Visual Transformers](https://arxiv.org/abs/2006.03677) (arxiv)
 - [octave conv](https://arxiv.org/abs/1904.05049) (ICCV'19) -->
 
-## try
+
 <!-- - [HarDNet](https://arxiv.org/abs/1909.00948) (ICCV'19)
 - [RegNet](https://arxiv.org/abs/2003.13678) (CVPR'20)
 - [CSPNet](https://arxiv.org/abs/1911.11929) (CVPRW'20)
