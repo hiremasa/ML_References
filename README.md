@@ -57,7 +57,8 @@ ML/DLのリファレンス集<br>
 - [ResNet](https://arxiv.org/abs/1512.03385) (CVPR'16)
 - [EfficientNet](https://arxiv.org/abs/1905.11946) (ICML'19)
 - [DenseNet](https://arxiv.org/abs/1608.06993) (CVPR'17)
-- [MobileNet](https://arxiv.org/abs/1704.04861)(CVPR'17)
+- [MobileNet v1](https://arxiv.org/abs/1704.04861)(CVPR'17)
+- [MobileNet v2](https://arxiv.org/abs/1801.04381)(CVPR'18)
 - [ResNeXt](https://arxiv.org/abs/1611.05431) (CVPR'17)
 - [ResNeSt](https://arxiv.org/abs/2004.08955) (arxiv)
 - [Vision Transformer](/https://arxiv.org/pdf/2010.11929.pdf) (arxiv)
@@ -254,6 +255,7 @@ FOR FINE-TUNING](https://arxiv.org/abs/2002.11770) (ICLR'20)
 # Blog
 - [論文解説 Attention Is All You Need (Transformer)](https://deeplearning.hatenablog.com/entry/transformer)
 - [作って理解する Transformer / Attention](https://qiita.com/halhorn/items/c91497522be27bde17ce)
+- [モバイル向けの代表モデルMobileNetV2を詳細解説！](https://deepsquare.jp/2020/06/mobilenet-v2/) (mainfield of interest や多様体仮設など)
 <a name="kaggle"></a>
 
 # Kaggle
