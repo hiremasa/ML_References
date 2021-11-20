@@ -55,6 +55,7 @@ ML/DLのリファレンス集<br>
 # classification models (読んだら更新していく)
 
 - [ResNet](https://arxiv.org/abs/1512.03385) (CVPR'16)
+- [Inceptionv3](https://arxiv.org/abs/1512.00567) (CVPR'16)
 - [EfficientNet](https://arxiv.org/abs/1905.11946) (ICML'19)
 - [DenseNet](https://arxiv.org/abs/1608.06993) (CVPR'17)
 - [MobileNet v1](https://arxiv.org/abs/1704.04861)(CVPR'17)
@@ -65,7 +66,7 @@ ML/DLのリファレンス集<br>
 - [Vision Transformer](/https://arxiv.org/pdf/2010.11929.pdf) (arxiv)
 - [Swin Transformer](https://arxiv.org/abs/2103.14030) (arxiv)
 - [Hybrid Swin Transformers](https://arxiv.org/abs/2110.03786)
-<!-- - [Inceptionv3](https://arxiv.org/abs/1512.00567) (CVPR'16)
+<!-- - 
 - 
 - [coord conv](https://arxiv.org/abs/1807.03247) (NeurIPS'18)
 - [HRNet](https://arxiv.org/abs/1908.07919) (CVPR'19) 
@@ -95,8 +96,8 @@ ML/DLのリファレンス集<br>
 [When Does Label thing Help?](https://arxiv.org/abs/1906.02629) (NeurIPS'19)
 
 ## dropout
-<!-- - [dropout](https://jmlr.org/papers/v15/srivastava14a.html) (JMLR'14)
-- [dropblock](https://arxiv.org/abs/1810.12890) (NeurIPS'18) -->
+- [dropout](https://jmlr.org/papers/v15/srivastava14a.html) (JMLR'14)
+- [dropblock](https://arxiv.org/abs/1810.12890) (NeurIPS'18)
 
 ## data augmentatoin
 ### model robustness under data shift
