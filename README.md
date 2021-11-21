@@ -131,10 +131,10 @@ ML/DLのリファレンス集<br>
 <a name="batch_norm"></a>
 
 # batch normalization
-<!-- - [Instance Normalization](https://arxiv.org/abs/1701.02096) (CVPR'17)
+- [Instance Normalization](https://arxiv.org/abs/1701.02096) (CVPR'17)
 - [Group Normalization](https://arxiv.org/abs/1803.08494) (ECCV'18)
 - [Filter Response Normalization](https://arxiv.org/abs/1911.09737) (CVPR'20)
-- [Evolving Normalization](https://arxiv.org/abs/2004.02967) (arxiv) -->
+- [Evolving Normalization](https://arxiv.org/abs/2004.02967) (arxiv)
 
 <a name="hyperparameter_tuning"></a>
 
