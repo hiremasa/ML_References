@@ -111,9 +111,10 @@ ML/DLのリファレンス集<br>
 - [mixup](https://arxiv.org/abs/1710.09412) (ICLR'18)
 - [How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers](https://arxiv.org/abs/2106.10270) (arxiv'2021)
 - [CutMix](https://arxiv.org/abs/1905.04899) (ICCV'19)
+- [Manifold Mixup](https://arxiv.org/abs/1806.05236) (ICML'19)
 <!-- - 
 
-- [Manifold Mixup](https://arxiv.org/abs/1806.05236) (ICML'19)
+- 
 - [Fast AutoAugment](https://arxiv.org/abs/1905.00397) (NeurIPS'19)
 - [Implicit Semantic Data Augmentation](https://arxiv.org/abs/1909.12220) (NeurIPS'19)
 - [Population Based Augmentation](https://arxiv.org/abs/1905.05393) (ICML'19)
