@@ -101,7 +101,8 @@ ML/DLのリファレンス集<br>
 
 ## data augmentatoin
 ### model robustness under data shift
-<!-- - [Generalisation in humans and deep neural networks](https://arxiv.org/abs/1808.08750) (NeurIPS'18)
+- [Generalisation in humans and deep neural networks](https://arxiv.org/abs/1808.08750) (NeurIPS'18)
+<!-- 
 - [IMAGENET-TRAINED CNNS ARE BIASED TOWARDS TEXTURE](https://arxiv.org/abs/1811.12231) (ICLR'19)
 - [BENCHMARKING NEURAL NETWORK ROBUSTNESS TO COMMON CORRUPTIONS AND PERTURBATIONS](https://arxiv.org/abs/1903.12261) (ICLR'19)
 - [Why do deep convolutional networks generalize so poorly to small image transformations?](https://arxiv.org/abs/1805.12177) (JMLR'19) -->
