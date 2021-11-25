@@ -169,12 +169,12 @@ FOR FINE-TUNING](https://arxiv.org/abs/2002.11770) (ICLR'20)
 <a name="semi_supervised_learning"></a>
 
 # semi-supervised learning
-<!-- - [Pseudo-label](http://deeplearning.net/wp-content/uploads/2013/03/pseudo_label_final.pdf)
+- [Pseudo-label](http://deeplearning.net/wp-content/uploads/2013/03/pseudo_label_final.pdf)
 - [Noisy Student](https://arxiv.org/abs/1911.04252) (CVPR'20)
 - [Mean Teacher](https://arxiv.org/abs/1703.01780) (NIPS'17)
 - [MixMatch](https://arxiv.org/abs/1905.02249) (NIPS'19)
 - [FixMatch](https://arxiv.org/abs/2001.07685) (arxiv)
-- [FeatMatch](https://arxiv.org/abs/2007.08505) (ECCV'20) -->
+- [FeatMatch](https://arxiv.org/abs/2007.08505) (ECCV'20)
 
 <a name="unsupervised_learning"></a>
 
