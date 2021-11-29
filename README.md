@@ -142,7 +142,7 @@ ML/DLのリファレンス集<br>
 
 # hyperparameter tuning
 ## library
-<!-- - [optuna](https://optuna.org/) -->
+- [optuna](https://optuna.org/)
 ## journal
 <!-- - [RETHINKING THE HYPERPARAMETERS
 FOR FINE-TUNING](https://arxiv.org/abs/2002.11770) (ICLR'20)
@@ -151,13 +151,13 @@ FOR FINE-TUNING](https://arxiv.org/abs/2002.11770) (ICLR'20)
 <a name="imbalanced_data"></a>
 
 # imbalanced data
-<!-- - [pc-softmax](https://arxiv.org/abs/1911.10688) (arxiv)
+- [pc-softmax](https://arxiv.org/abs/1911.10688) (arxiv)
 - [focal loss](https://arxiv.org/abs/1708.02002) (ICCV'17)
 - [reduced focal loss](https://arxiv.org/abs/1903.01347) (arxiv)
 - [Class-Balanced Loss](https://arxiv.org/abs/1901.05555) (CVPR'19)
 - [Bilateral-Branch Network](https://arxiv.org/abs/1912.02413) (CVPR'20)
 - [Rebalanced mixup](https://arxiv.org/abs/2007.03943) (arxiv)
-- [M2m](https://arxiv.org/abs/2004.00431) (CVPR'20) -->
+- [M2m](https://arxiv.org/abs/2004.00431) (CVPR'20)
 
   - [visualizatioo](#visualization)
 <a name="visualization"></a>
