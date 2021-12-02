@@ -144,9 +144,9 @@ ML/DLのリファレンス集<br>
 ## library
 - [optuna](https://optuna.org/)
 ## journal
-<!-- - [RETHINKING THE HYPERPARAMETERS
+- [RETHINKING THE HYPERPARAMETERS
 FOR FINE-TUNING](https://arxiv.org/abs/2002.11770) (ICLR'20)
-- [HyperSTAR](https://arxiv.org/abs/2005.10524) (CVPR'20) -->
+- [HyperSTAR](https://arxiv.org/abs/2005.10524) (CVPR'20)
 
 <a name="imbalanced_data"></a>
 
