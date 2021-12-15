@@ -263,6 +263,7 @@ FOR FINE-TUNING](https://arxiv.org/abs/2002.11770) (ICLR'20)
 - [作って理解する Transformer / Attention](https://qiita.com/halhorn/items/c91497522be27bde17ce)
 - [モバイル向けの代表モデルMobileNetV2を詳細解説！](https://deepsquare.jp/2020/06/mobilenet-v2/) (mainfield of interest や多様体仮設など)
 - [（か）研究日記](https://hkashima.github.io/research_memo.html) (面白いメモが残っている）
+- [不均衡データ](https://qiita.com/koshian2/items/20af1548125c5c32dda9)
 <a name="kaggle"></a>
 
 # Kaggle
