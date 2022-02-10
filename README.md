@@ -68,12 +68,14 @@ ML/DLのリファレンス集<br>
 - [Swin Transformer](https://arxiv.org/abs/2103.14030) (arxiv)
 - [Hybrid Swin Transformers](https://arxiv.org/abs/2110.03786)
 - [coord conv](https://arxiv.org/abs/1807.03247) (NeurIPS'18)
+- [Visual Transformers](https://arxiv.org/abs/2006.03677) (arxiv)
+- [ConvNet](https://arxiv.org/abs/2201.03545) (arxiv)
 <!-- - 
 - 
 - 
 - [HRNet](https://arxiv.org/abs/1908.07919) (CVPR'19) 
 - [ECA-Net](https://arxiv.org/abs/1910.03151) (CVPR'20)
-- [Visual Transformers](https://arxiv.org/abs/2006.03677) (arxiv)
+- 
 - [octave conv](https://arxiv.org/abs/1904.05049) (ICCV'19) -->
 
 
