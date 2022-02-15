@@ -218,7 +218,7 @@ FOR FINE-TUNING](https://arxiv.org/abs/2002.11770) (ICLR'20)
 <a name="metric_learning"></a>
 
 # metric learning / face recognition / re-id
-<!-- ## library
+## library
 - [torch reid](https://github.com/KaiyangZhou/deep-person-reid)
 - [insightface](https://github.com/deepinsight/insightface)
 - [reid-strong-baseline](https://github.com/michuanhaohao/reid-strong-baseline)
@@ -235,7 +235,7 @@ FOR FINE-TUNING](https://arxiv.org/abs/2002.11770) (ICLR'20)
 - [SoftTriple Loss](https://arxiv.org/abs/1909.05235) (ICCV'19)
 - [Circle Loss](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sun_Circle_Loss_A_Unified_Perspective_of_Pair_Similarity_Optimization_CVPR_2020_paper.pdf) (CVPR'20)
 - [Cross-Batch Memory](https://arxiv.org/abs/1912.06798) (CVPR'20)
-- [Unifying Deep Local and Global Features for Image Search](https://arxiv.org/abs/2001.05027) (ECCV'20) -->
+- [Unifying Deep Local and Global Features for Image Search](https://arxiv.org/abs/2001.05027) (ECCV'20)
 
 
 
