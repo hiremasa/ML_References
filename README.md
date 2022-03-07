@@ -210,10 +210,10 @@ FOR FINE-TUNING](https://arxiv.org/abs/2002.11770) (ICLR'20)
 <a name="domain_adaptation"></a>
 
 # domain adaptation
-<!-- - [domain adversarial neural network](https://arxiv.org/abs/1505.07818) (JMLR'16)
+- [domain adversarial neural network](https://arxiv.org/abs/1505.07818) (JMLR'16)
 - [REVISITING BATCH NORMALIZATION FOR PRACTICAL DOMAIN ADAPTATION](https://arxiv.org/abs/1603.04779) (ICLR'17)
 - [MUNIT](https://arxiv.org/abs/1804.04732) (ECCV'18)
-- [Style Normalization and Restitution](https://arxiv.org/abs/2005.11037) (CVPR'20) -->
+- [Style Normalization and Restitution](https://arxiv.org/abs/2005.11037) (CVPR'20)
 
 <a name="metric_learning"></a>
 
